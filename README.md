@@ -3,4 +3,4 @@
 # Capycocoa-KDE
 Capycocoa theme for various KDE programs.
 
-<p align="center"><img src="Capycocoa/assets/capycocoa_logo.png"></p>
+![Desktop Screenshot](https://github.com/FinestBanana/Capycocoa/blob/main/assets/overview_light.png)
