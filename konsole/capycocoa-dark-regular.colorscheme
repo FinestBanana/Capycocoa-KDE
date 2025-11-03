@@ -2,7 +2,7 @@
 Color=69,39,26
 
 [BackgroundFaint]
-Color=69,39,26
+Color=84,48,32
 
 [BackgroundIntense]
 Color=51,29,19
@@ -91,6 +91,6 @@ Color=247,215,139
 [General]
 Blur=false
 ColorRandomization=false
-Description=Capycocoa Dark
+Description=Capycocoa Dark Regular
 Opacity=1
 Wallpaper=
